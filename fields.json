@@ -1,0 +1,5 @@
+{
+  "usernameSound": {
+   "type": "sound-input",
+   "label": "Username"
+ }
